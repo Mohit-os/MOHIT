@@ -1,0 +1,76 @@
+h1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 10rem;
+    font-family: 'Sacramento', cursive;
+    color: white;
+    margin: 0;
+    padding: 13rem 8rem 0 8rem;
+}
+
+
+body {
+    /* background-color: #E7CEA6; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-color: var(--color-canvas-default);
+}
+
+.myname {
+    font-family: 'Sacramento', cursive;
+    font-size: 10rem;
+    color: white;
+}
+
+.definition {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    padding: 3rem 3rem 5rem 3rem;
+    color: white;
+    letter-spacing: 0.2rem;
+}
+
+.myintro {
+    color: white;
+    font-family: 'Sacramento', cursive;
+    font-size: 10rem;
+}
+
+.intro {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    padding: 3rem 3rem 5rem 3rem;
+    color: white;
+    letter-spacing: 0.1rem;
+}
+
+.firstsite {
+    border-radius: 50%!important;
+    height: 140;
+    width: 140;
+}
+
+
+.ms-3 {
+    background-color: white;
+    /* padding: 5px; */
+    padding: 2px 4px;
+    height: 30px;
+}
+
+.html {
+    padding: 4px 4px;
+    height: 30px;
+}
+
+.css {
+    padding: 2px 4px;
+    height: 30px;
+}
+
+.bootstrap {
+    padding: 2px 4px;
+    height: 30px;
+}
